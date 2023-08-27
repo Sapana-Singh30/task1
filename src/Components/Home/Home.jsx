@@ -4,14 +4,14 @@ import "./Home.css";
 
 const Home = () => {
   return (
-    <div className='home1'>
+    <div className='home_container'>
       <div className='home'>
-        <div className='home_container1'>
+        <div className='home1'>
           <p className='p1'>Pricing</p>
           <p className='p2'>Simple, transparent pricing</p>
           <p className='p3'>We believe untitled should be accessible to all companies, no matter the size.</p>
         </div>
-        <div className='home_container2'>
+        <div className='home2'>
           <Card heading="$10/mth" subheading1="Basic plan" subheading2="billed anuaaly"
             l1="Access to all basic features"
             l2="Basic reporting and analytics"
