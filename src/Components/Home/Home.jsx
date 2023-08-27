@@ -1,6 +1,5 @@
 import React from 'react'
 import Card from '../Card/Card'
-import Button from '../Button/Button'
 import "./Home.css";
 
 const Home = () => {

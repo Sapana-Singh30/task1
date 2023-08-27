@@ -24,17 +24,12 @@
 
 .subheadings span{
     font-weight: normal;
-    /* margin-bottom: 10rem; */
-    /* line-height: 2.5rem; */
 }
 
 .Card_list {
     margin-top: 1.2rem;
     text-align: left;
     line-height: 1.7rem;
-    /* display: flex;
-    flex-direction: row; */
-    /* margin: 0.2rem; */
 }
 
 .check {
@@ -49,7 +44,7 @@
     border-radius: 5px;
     width: 100%;
     margin: 0.6rem;
-    /* padding: 1.5rem; */
+
 }
 
 .button button {
