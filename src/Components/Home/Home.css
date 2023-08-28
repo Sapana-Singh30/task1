@@ -9,7 +9,7 @@
 .home {
     display: flex;
     justify-content: flex-start;
-    width: 85%;
+    width: 75%;
     flex-direction: column;
 
 }
@@ -59,7 +59,7 @@
         font-weight: 700;
     }
 
-    .home_container2 {
+    .home2 {
 
         flex-direction: column;
         justify-content: center;
